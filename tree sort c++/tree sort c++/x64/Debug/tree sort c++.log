@@ -1,0 +1,41 @@
+﻿  tree sort c++.cpp
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(29,42): error C2039: "vector": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  vea la declaración de 'std'
+  
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(29,42): error C2061: error de sintaxis: identificador 'vector'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(31,40): error C2065: 'sorted_arr': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(32,9): error C2065: 'sorted_arr': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(33,41): error C2065: 'sorted_arr': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,6): error C2039: "vector": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  vea la declaración de 'std'
+  
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,12): error C2143: error de sintaxis: falta ';' delante de '<'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,12): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,12): error C2059: error de sintaxis: '<'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,33): error C2039: "vector": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  vea la declaración de 'std'
+  
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,51): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(37,51): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(51,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(53,10): error C2039: "vector": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  vea la declaración de 'std'
+  
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(53,17): error C2062: tipo 'int' inesperado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(53,30): error C2143: error de sintaxis: falta ';' delante de '{'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(53,66): error C2143: error de sintaxis: falta ';' delante de '}'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(55,21): error C2065: 'sizes': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(55,19): error C2143: error de sintaxis: falta ';' delante de ':'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(55,26): error C2143: error de sintaxis: falta ';' delante de ')'
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(57,14): error C2039: "vector": no es un miembro de "std"
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\iostream(18,1):
+  vea la declaración de 'std'
+  
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(57,21): error C2062: tipo 'int' inesperado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(59,13): error C2065: 'vec': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(64,37): error C2065: 'vec': identificador no declarado
+E:\tarea\tereahub\c++\tree sort c++\tree sort c++\tree sort c++.cpp(64,27): error C3861: 'tree_sort': no se encontró el identificador
